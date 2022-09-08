@@ -1,0 +1,16 @@
+
+Hkotlin:S1481>"+Remove this unused "array3" local variable.(ùúÄŠùÿÿÿÿ
+Hkotlin:S1481="+Remove this unused "array2" local variable.(Ë»¤Ÿøÿÿÿÿ
+Ckotlin:S1481<"+Remove this unused "array1" local variable.(Ãüü…
+Akotlin:S1481#")Remove this unused "test" local variable.(ÆšÍ‚
+Ikotlin:S1481",Remove this unused "simple4" local variable.(Äå˜ıÿÿÿÿ
+Ckotlin:S1481",Remove this unused "simple3" local variable.(€§w
+Ikotlin:S1481",Remove this unused "simple2" local variable.(Œçñğûÿÿÿÿ
+Ikotlin:S1481",Remove this unused "simple1" local variable.(‡‚”ÿÿÿÿÿ
+Pkotlin:S1481"8Remove this unused "floatingPointNumber" local variable.(°…È†
+Ekotlin:S1481"(Remove this unused "num" local variable.(‰³¯úÿÿÿÿ
+Dkotlin:S1481N"'Remove this unused "x1" local variable.(ãÈøÁúÿÿÿÿ
+Ckotlin:S1481M"&Remove this unused "x" local variable.(ÈŠìŠşÿÿÿÿ
+Ekotlin:S1481C"-Remove this unused "flaArray" local variable.(ÒÎââ
+Ekotlin:S1481B"-Remove this unused "intArray" local variable.(÷¼Ã£
+ckotlin:S101"GRename class "type" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(ëĞ­ğûÿÿÿÿ
