@@ -13,10 +13,17 @@ fun main(args: Array<String>) {
 
 //        Test test = new Test(2);
 
-    CoroutineScope(Dispatchers.IO).launch(){
-        log("1")
-    }
-    CoroutineScope(Dispatchers.IO).launch(){
-        log("2")
-    }
+//    CoroutineScope(Dispatchers.IO).launch(){
+//        log("1")
+//    }
+//    CoroutineScope(Dispatchers.IO).launch(){
+//        log("2")
+//    }
+
+    var test: String? = "dsajkhjkds"
+    test = test?.let{
+        null
+    }?: "dsdksjf"
+    println(test)
+    println(if(test == null) "abc" else "dsdksjf")
 }
